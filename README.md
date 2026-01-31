@@ -1,6 +1,5 @@
 <div align="center">
 
-## Hi there 👋
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello%20World&fontSize=90)
 # 💫 About Me:
 西安电子科技大学在读<br>幻想家<br>经常获得此路不通的灵光一现
@@ -21,8 +20,5 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChangAkira&layout=compact&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ChangAkira&theme=radical)
 
 </div>
