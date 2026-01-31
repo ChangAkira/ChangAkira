@@ -4,8 +4,6 @@
 
 西安电子科技大学在读<br>幻想家<br>经常获得此路不通的灵光一现
 
-mail to moyuan2333333@gmail.com. 
-
 </div>
 
 
