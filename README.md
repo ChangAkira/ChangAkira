@@ -5,9 +5,9 @@
 西安电子科技大学在读<br>幻想家<br>经常获得此路不通的灵光一现
 
 [![](https://visitcount.itsvg.in/api?id=ChangAkira&icon=0&color=0)](https://visitcount.itsvg.in)
-
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3572A5&center=true&vCenter=true&width=435&lines=雨只会下一天……" alt="Typing SVG" />
-  </a>
-
 </div>
+  <a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans+SC&weight=600&size=30&pause=1000&color=3572A5&center=true&vCenter=true&width=435&lines=雨只会下一天" alt="Typing SVG" />
+</a>
+
+
